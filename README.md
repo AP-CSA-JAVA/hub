@@ -7,6 +7,7 @@ One page that links to every classroom and grading tool. Published at
 |------|-------|
 | Roll Call | `ap-csa-java.github.io/roll-call/` |
 | Roll Call Teams: Race Day | `ap-csa-java.github.io/roll-call/teams.html` |
+| Live: student page | `ap-csa-java.github.io/roll-call/live.html` (where students answer in Live mode) |
 | Check for Understanding | the quiz Google Sheet (link saved in your browser) and the course site |
 | 40-Question Final (MCQ Exam) | `ap-csa-java.github.io/frq-toolkit/mcq.html` |
 | FRQ Writer | `ap-csa-java.github.io/frq-toolkit/` |
